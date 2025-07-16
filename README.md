@@ -23,18 +23,7 @@ Tenho familiaridade e experiência com as seguintes tecnologias e ferramentas:
 * **Ferramentas e Outros**: Git, Sistemas Operacionais (Windows/Linux), Pacote Office, Power BI.
 * **Suporte e Análise**: Suporte Técnico, Análise de Dados, Resolução de Problemas.
 * **Idiomas**: Inglês (cursando na Wizard, buscando aprimorar habilidades de comunicação).
-
----
-
-## O Que Busco e Me Motiva 💡
-
-Estou buscando uma oportunidade de estágio onde possa:
-
-* **Aprofundar** meus conhecimentos em desenvolvimento de software e análise de dados.
-* **Aplicar** minhas habilidades em projetos desafiadores e inovadores.
-* **Contribuir** com equipes multidisciplinares e aprender com profissionais experientes.
-* **Crescer** profissionalmente em um ambiente dinâmico e colaborativo.
-
+  
 ---
 
 ## Conecte-se Comigo! 📧
