@@ -20,9 +20,9 @@ Minha trajetória é marcada pela busca constante por experiência prática e re
 Tenho familiaridade e experiência com as seguintes tecnologias e ferramentas:
 
 * **Linguagens de Programação**: C, Java, Python, MySQL, R.
-* **Ferramentas e Outros**: Git, Sistemas Operacionais (Windows/Linux), Pacote Office, Power BI
-* **Suporte e Análise**: Suporte Técnico, Análise de Dados, Resolução de Problemas
-* **Idiomas**: Inglês (cursando na Wizard, buscando aprimorar habilidades de comunicação)
+* **Ferramentas e Outros**: Git, Sistemas Operacionais (Windows/Linux), Pacote Office, Power BI.
+* **Suporte e Análise**: Suporte Técnico, Análise de Dados, Resolução de Problemas.
+* **Idiomas**: Inglês (cursando na Wizard, buscando aprimorar habilidades de comunicação).
 
 ---
 
