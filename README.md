@@ -1,4 +1,4 @@
-# Olá, sou João Guilherme Menegassi! 👋
+# Olá, sou João Guilherme Menegassi! 👋🏻
 
 Sou um **estudante de Sistemas de Informação na UTFPR**, atualmente no 5º período, apaixonado por tecnologia e em busca de uma oportunidade de estágio que me permita aplicar e aprofundar meus conhecimentos em desenvolvimento de software e análise de dados.
 
